@@ -1,3 +1,73 @@
 body{
-	background-color: red;
+	margin: 0;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+
 }
+
+header{
+	background-color: white;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Rokkitt', serif;
+}
+header h1{
+	color: gold;
+	font-size: 50px;
+}
+
+header img{
+	width: 300px;
+	border-radius: 300px;
+}
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+}
+
+a{
+	color: gold;
+}
+a:hover{
+	color: white;
+	background-color: gold;
+}
+
+footer{
+	background-color: gold;
+	color: white;
+	text-align: center;
+	padding: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
