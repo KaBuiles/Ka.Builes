@@ -49,6 +49,9 @@ a:hover{
 	background-color: gold;
 }
 
+
+/*Footer elemts*/
+
 footer{
 	background-color: gold;
 	color: white;
@@ -57,10 +60,9 @@ footer{
 
 }
 
+/* Need more infor in the footer */
 
-
-
-
+@media screen and (max-width 500px)
 
 
 
